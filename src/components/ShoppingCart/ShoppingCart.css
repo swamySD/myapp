@@ -1,0 +1,27 @@
+.shopping-cart-table{
+    width: 98%;
+}
+
+
+.shop-details-cart-sumary-card{
+    background-color: #edf1ff;
+}
+
+.shopping-cart-proceed-to-checkout-button{
+    color: black;
+    background-color: #d19c97;
+    width: 95%;
+    border-width: 0px;
+}
+.shopping-cart-proceed-to-checkout-button:hover{
+    color: #ffffff;
+    background-color: #d19c97;
+    cursor: pointer;
+   
+}
+.shopping-cart-proceed-to-checkout-button:focus
+,:active{
+   
+    box-shadow:none;
+   
+  }
